@@ -8,4 +8,13 @@
             "buttonText":"Play now!",
             "placeId":"2317712696"
         }
+    "ad": {
+            "title":"Lol",
+            "rbxid":"149074201",
+            "timeOnScreen":"10",
+            "clickable":"false",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet risus feugiat in ante. Sit amet nulla facilisi morbi tempus iaculis urna. Dolor magna eget est lorem. Ultricies tristique nulla aliquet enim tortor.",
+            "buttonText":"Play now!",
+            "placeId":"2317712696"
+        }
 }
