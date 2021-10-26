@@ -1,5 +1,5 @@
 {
-    "ad": {
+    "ad1": {
             "title":"Jailbreak",
             "rbxid":"885401259",
             "timeOnScreen":"10",
@@ -8,7 +8,7 @@
             "buttonText":"Play now!",
             "placeId":"2317712696"
         }
-    "ad": {
+    "ad2": {
             "title":"Lol",
             "rbxid":"149074201",
             "timeOnScreen":"10",
